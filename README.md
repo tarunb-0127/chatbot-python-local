@@ -21,7 +21,8 @@ Requirements
 - Python 3.9+
 - Ollama running locally or in Docker.
 - Dependencies:
-  pip install langchain langchain-ollama langchain-core python-dotenv
+   ```bash
+  pip install -r requirements.txt
 
 Setup
 -----
