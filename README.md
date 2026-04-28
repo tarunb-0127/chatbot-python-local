@@ -2,6 +2,11 @@
 Python Ollama Chatbot
 =====================
 
+<img width="1158" height="415" alt="image" src="https://github.com/user-attachments/assets/b3b2cab8-09d9-459e-b895-11990d86923a" />
+
+
+
+
 This project is a simple interactive chatbot built with LangChain and Ollama. It connects to an Ollama server (running locally or in Docker) and uses the `llama3` model to answer user questions.
 
 Features
